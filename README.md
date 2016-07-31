@@ -1,2 +1,2 @@
 # weekend
-Weekend
+Weekend.
